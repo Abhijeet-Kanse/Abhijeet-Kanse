@@ -56,4 +56,3 @@ With a background in **business systems and data analytics**, I excel at bridgin
   <a href="mailto:abhijeetkanse33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Abhijeet-Kanse"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
