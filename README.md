@@ -2,8 +2,21 @@
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=800&lines=Business+Analyst+%7C+Data+Analytics;SQL+•+Python+•+Power+BI+•+Excel;Turning+Data+into+Business+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=850&lines=Business+Analyst;Data+Analytics;Turning+Data+into+Business+Decisions" />
 </p>
+
+<!-- Tech Stack Icons (One Row, Clean) -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL / MySQL" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Microsoft Excel" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" title="Artificial Intelligence" width="40" height="40" style="margin: 0 20px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="40" height="40" style="margin: 0 20px;"/>
+</p>
+
 
 ---
 
