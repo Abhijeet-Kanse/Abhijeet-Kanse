@@ -5,16 +5,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=850&lines=Business+Analyst;Data+Analytics;Turning+Data+into+Business+Decisions" />
 </p>
 
-<!-- Tech Stack Icons (One Row, Smaller & Clean) -->
+<!-- Floating Wave Icons -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL / MySQL" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Microsoft Excel" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" title="Artificial Intelligence" width="30" height="30" style="margin: 0 15px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="30" height="30" style="margin: 0 15px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="35" height="35" style="margin: 0 25px; vertical-align: -8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL / MySQL" width="35" height="35" style="margin: 0 25px; vertical-align: -3px;"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" width="35" height="35" style="margin: 0 25px; vertical-align: 2px;"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" title="Microsoft Excel" width="35" height="35" style="margin: 0 25px; vertical-align: -4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" title="TensorFlow" width="35" height="35" style="margin: 0 25px; vertical-align: -10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="35" height="35" style="margin: 0 25px; vertical-align: -5px;"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/artificial-intelligence.png" alt="AI" title="Artificial Intelligence" width="35" height="35" style="margin: 0 25px; vertical-align: 0px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" title="Scikit-Learn" width="35" height="35" style="margin: 0 25px; vertical-align: -6px;"/>
 </p>
 
 ---
