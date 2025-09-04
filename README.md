@@ -1,22 +1,18 @@
+<!-- 🌊 Header Wave Banner --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=220&section=header&text=%F0%9F%91%8B%20Abhijeet%20Kanse&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=%20Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20%20&descSize=20&descAlignY=65" alt="Header Banner" /> </p>
+
+<!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=3776AB&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abhijeet+Kanse;Business+Analyst+%7C+Data+Analytics;SQL+•+Python+•+Power+BI+•+Excel;Turning+Data+into+Business+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=800&lines=Business+Analyst+%7C+Data+Analytics;SQL+•+Python+•+Power+BI+•+Excel;Turning+Data+into+Business+Decisions" />
 </p>
 
 ---
 
 ## 💼 About Me  
 
-I am a **Business Analyst with 2 years of experience in CRM and ERP systems**, specializing in translating business requirements into effective, data-driven solutions. Skilled in **SQL, Python, Power BI, and Excel**, I bring both technical expertise and business process knowledge to deliver insights that support decision-making and operational efficiency.  
-
-🔹 Hands-on experience in **CRM & ERP implementation, process improvement, and data management**  
-🔹 Skilled in **SQL** for querying and analyzing business data  
-🔹 Proficient in **Python (Pandas, NumPy, Matplotlib, Seaborn)** for advanced analytics  
-🔹 Strong expertise in **Power BI dashboards and reporting** to visualize business performance  
-🔹 Adept at **stakeholder communication and requirement gathering** to align technology with business goals  
-
-With a background in **business systems and data analytics**, I excel at bridging the gap between technical teams and business stakeholders. My focus is on leveraging data and technology to improve processes, enhance customer experiences, and drive business growth.  
-
-📌 **Open to opportunities** in Business Analysis, Data Analytics, and related domains where I can apply my skills to create measurable business impact.  
+🌟 **Business Analyst (2+ years)** with expertise in **CRM, ERP, and Data Analytics**.  
+📊 Skilled at bridging **business goals & data-driven insights** through **SQL, Python, Power BI & Excel**.  
+🤝 Experienced in **stakeholder communication, process improvement & business reporting**.  
+⚡ Passionate about **AI & ML applications in decision-making**.  
 
 ---
 
@@ -27,27 +23,28 @@ With a background in **business systems and data analytics**, I excel at bridgin
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />  
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />  
+  <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
   <img src="https://img.shields.io/badge/CRM-0052CC?style=for-the-badge&logo=Atlassian&logoColor=white" />  
-  <img src="https://img.shields.io/badge/ERP-FF6F00?style=for-the-badge&logo=SAP&logoColor=white" />  
 </p>  
 
 ---
 
 ## 📂 Featured Projects  
+
+🔹 [**📈 Global Store Dashboard (Excel)**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Sales Insights Dashboard  
+
+🔹 [**🚀 Indian E-Commerce Market Analysis (Python, EDA & ML)**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Data Science Project  
+
+🔹 [**🏬 Superstore Sales & Profit Analytics (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business Dashboard  
+
 ---
-🔹 [**📈 Global Store Excel Dashboard Project**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Sales Analysis & Insights using Excel Dashboards  
 
-🔹 [**🚀 Indian E-Commerce Market Analysis using Python, EDA & ML**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Python,EDA & ML project  
-
-🔹 [**🏬 Superstore Sales & Profit Analytics Dashboard (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI)– Excel + Power BI
-
-----
 ## 🎓 Education & Certifications  
 
-- MBA in Marketing & Business Analytics  
-- Google Data Analytics Professional Certificate  
-- SQL, Power BI & Python certifications  
-- Additional LinkedIn Learning / Coursera certifications   
+- 🎓 MBA in Marketing & Business Analytics  
+- 📜 Google Data Analytics Professional Certificate  
+- 🛠 SQL, Python & Power BI certifications  
+- 🎯 LinkedIn Learning & Coursera courses  
 
 ---
 
@@ -58,3 +55,5 @@ With a background in **business systems and data analytics**, I excel at bridgin
   <a href="mailto:abhijeetkanse33@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Abhijeet-Kanse"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+<!-- 🌊 Footer Wave Banner --><p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=2c5364,203a43,0f2027&height=150&section=footer" alt="Footer Banner" /> </p>
