@@ -37,7 +37,7 @@ With a background in **business systems and data analytics**, I excel at bridgin
 
 🔹 [**📈 Global Store Excel Dashboard Project**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Sales Analysis & Insights using Excel Dashboards  
 
-🔹 [**🚀 Indian E-Commerce Market Analysis using Python, EDA & ML**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Python, SQL & Power BI project  
+🔹 [**🚀 Indian E-Commerce Market Analysis using Python, EDA & ML**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Python,EDA & ML project  
 
 ---
 
