@@ -43,7 +43,7 @@ With a background in **business systems and data analytics**, I excel at bridgin
 
 ## 📜 Certifications  
 
-- Google Data Analytics Professional Certificate *(in progress/completed)*  
+- Google Data Analytics Professional Certificate 
 - SQL, Power BI & Python certifications  
 - Additional LinkedIn Learning / Coursera certifications  
 
