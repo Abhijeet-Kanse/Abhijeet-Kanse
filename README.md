@@ -9,7 +9,7 @@
 
 ## 💼 About Me  
 
-🌟 **Business Analyst (2+ years)** with expertise in **CRM, ERP, and Data Analytics**.  
+🌟 **Business Analyst** with 2 years experienced in **CRM, ERP, and Data Analytics**.  
 📊 Skilled at bridging **business goals & data-driven insights** through **SQL, Python, Power BI & Excel**.  
 🤝 Experienced in **stakeholder communication, process improvement & business reporting**.  
 ⚡ Passionate about **AI & ML applications in decision-making**.  
