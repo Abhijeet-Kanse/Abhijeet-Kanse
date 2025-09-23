@@ -43,6 +43,8 @@
 
 ## 📂 Featured Projects  
 
+🔹 [**🏥 Hospital-Management-SQL-Python-AI (AI Assistant)**](https://github.com/Abhijeet-Kanse/Hospital-Management-SQL-Python-AI)) –  AI Project  
+
 🔹 [**📈 Global Store Dashboard (Excel)**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Sales Insights Dashboard  
 
 🔹 [**🚀 Indian E-Commerce Market Analysis (Python, EDA & ML)**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Data Science Project  
