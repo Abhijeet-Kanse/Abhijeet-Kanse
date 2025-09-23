@@ -43,13 +43,13 @@
 
 ## 📂 Featured Projects  
 
-🔹 [**🏥 Hospital-Management-SQL-Python-AI (AI Assistant)**](https://github.com/Abhijeet-Kanse/Hospital-Management-SQL-Python-AI)) –  AI Project  
+🔹 [**🏥 Hospital-Management-SQL-Python-AI (AI Assistant)**](https://github.com/Abhijeet-Kanse/Hospital-Management-SQL-Python-AI)) –  AI-Powered Hospital System
 
-🔹 [**📈 Global Store Dashboard (Excel)**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Sales Insights Dashboard  
+🔹 [**📈 Global Store Dashboard (Excel)**](https://github.com/Abhijeet-Kanse/Global-Store-Excel-Dashboard-Project-Sales-Analysis-Insights) – Global Sales Analytics Dashboard 
 
-🔹 [**🚀 Indian E-Commerce Market Analysis (Python, EDA & ML)**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) – Data Science Project  
+🔹 [**🚀 Indian E-Commerce Market Analysis (Python, EDA & ML)**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) –  E-Commerce Data Science Project
 
-🔹 [**🏬 Superstore Sales & Profit Analytics (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business Dashboard  
+🔹 [**🏬 Superstore Sales & Profit Analytics (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business performence Dashboard
 
 ---
 
