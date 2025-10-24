@@ -55,6 +55,32 @@
 
 ---
 
+## 🖼️ Dashboard Gallery  
+----
+<p align="center">
+  <b>Superstore Sales Analytics - Excel & Power BI</b><br/>
+  <img src="Dashboard_screenshots/Super_Store_Dashboard.png" width="800" alt="Superstore Sales Dashboard"/>
+</p>
+
+---
+<p align="center">
+  <b>Indian-Ecommerce-EDA-ML-Python</b><br/>
+  <img src="Dashboard_screenshots/Ecom_Dashboard.png" width="800" alt="Global Store Dashboard"/>
+</p>
+---
+<p align="center">
+  <b>Global Store Dashboard (Excel)</b><br/>
+  <img src="Dashboard_screenshots/Global_Store_Dashboard.png" width="800" alt="Global Store Dashboard"/>
+</p>
+
+---
+<p align="center">
+  <b>Pune Real Estate Insights Dashboard</b><br/>
+  <img src="https://github.com/Abhijeet-Kanse/Pune-Real-Estate-Dashboard-Google-Sheets/raw/main/Screenshot%202025-10-24%20095129.png" width="800" alt="Pune Real Estate Dashboard"/>
+</p>
+
+---
+
 ## 🎓 Education & Certifications  
 
 - 🎓 MBA in Marketing & Business Analytics  
