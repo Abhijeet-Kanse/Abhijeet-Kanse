@@ -51,6 +51,8 @@
 
 🔹 [**🏬 Superstore Sales & Profit Analytics (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business performence Dashboard
 
+🔹 [**🏠 Pune-Real-Estate-Dashboard-Google-Sheets)**](https://github.com/Abhijeet-Kanse/Pune-Real-Estate-Dashboard-Google-Sheets) – Pune Real Estate Insights Dashboard
+
 ---
 
 ## 🎓 Education & Certifications  
