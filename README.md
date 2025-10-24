@@ -87,7 +87,7 @@
 
 - 🎓 MBA in Marketing & Business Analytics  
 - 📜 Google Data Analytics Professional Certificate
--  Scrum Fundamentals Certified (SFC)
+- 🏆Scrum Fundamentals Certified (SFC)
 - 🛠 SQL, Python & Power BI certifications  
 - 🎯 LinkedIn Learning & Coursera courses  
 
