@@ -59,19 +59,21 @@
 ----
 <p align="center">
   <b>Superstore Sales Analytics - Excel & Power BI</b><br/>
-  <img src="Dashboard_screenshots/Super_Store_Dashboard.png" width="800" alt="Superstore Sales Dashboard"/>
+  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Super_Store_Dashboard.png" width="800" alt="Superstore Sales Dashboard"/>
 </p>
 
 ---
 <p align="center">
-  <b>Indian-Ecommerce-EDA-ML-Python</b><br/>
-  <img src="Dashboard_screenshots/Ecom_Dashboard.png" width="800" alt="Global Store Dashboard"/>
+  <b>Indian E-commerce EDA & ML - Python</b><br/>
+  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Ecom_Dashboard.png" width="800" alt="Indian E-commerce Dashboard"/>
 </p>
+
 ---
 <p align="center">
-  <b>Global Store Dashboard (Excel)</b><br/>
-  <img src="Dashboard_screenshots/Global_Store_Dashboard.png" width="800" alt="Global Store Dashboard"/>
+  <b>Global Store Dashboard - Excel</b><br/>
+  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Global_Store_Dashboard.png" width="800" alt="Global Store Dashboard"/>
 </p>
+
 
 ---
 <p align="center">
@@ -84,7 +86,8 @@
 ## 🎓 Education & Certifications  
 
 - 🎓 MBA in Marketing & Business Analytics  
-- 📜 Google Data Analytics Professional Certificate  
+- 📜 Google Data Analytics Professional Certificate
+-  Scrum Fundamentals Certified (SFC)
 - 🛠 SQL, Python & Power BI certifications  
 - 🎯 LinkedIn Learning & Coursera courses  
 
