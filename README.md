@@ -66,7 +66,7 @@
 ---
 <p align="center">
   <b>Indian E-commerce EDA & ML - Python</b><br/>
-  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Ecom_Dashboard.png" width="800" alt="Indian E-commerce Dashboard"/>
+  <img src="https://github.com/Abhijeet-Kanse/Abhijeet-Kanse/blob/main/Dashboards/Ecom_Dashboard.png" width="800" alt="Indian E-commerce Dashboard"/>
 </p>
 
 ---
