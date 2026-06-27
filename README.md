@@ -50,7 +50,7 @@
 
 🔹 [**🚀 Indian E-Commerce Market Analysis (Python, EDA & ML)**](https://github.com/Abhijeet-Kanse/Indian-Ecommerce-EDA-ML-Python) –  E-Commerce Data Science Project
 
-🔹 [**🏬 Superstore Sales & Profit Analytics (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business performence Dashboard
+🔹 [**🏬 Sales-Profit-Analytics-Dashboard-Excel-PowerBI (Excel + Power BI)**](https://github.com/Abhijeet-Kanse/Superstore-Sales-Analytics-Excel-PowerBI) – Business performence Dashboard
 
 🔹 [**🏠 Pune-Real-Estate-Dashboard-Google-Sheets)**](https://github.com/Abhijeet-Kanse/Pune-Real-Estate-Dashboard-Google-Sheets) – Pune Real Estate Insights Dashboard
 
