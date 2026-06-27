@@ -60,7 +60,7 @@
 ----
 <p align="center">
   <b>Sales & Profit Analytics Dashboard (Excel + Power BI)</b><br/>
-  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Super_Store_Dashboard.png" width="800" alt="Superstore Sales Dashboard"/>
+  <img src="https://github.com/Abhijeet-Kanse/Abhijeet-Kanse/blob/main/Dashboards/Sales%20%26%20Profit%20Analytics%20Dashboard.png"/>
 </p>
 
 ---
