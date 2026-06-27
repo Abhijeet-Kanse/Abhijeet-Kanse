@@ -27,8 +27,6 @@
 🏆 Proven track record delivering high-quality BA and DA solutions across **US-based client engagements**.  
 ⚡ Passionate about **AI & GenAI tools** in business and data-driven decision-making.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijeet-Kanse&show_icons=true&theme=dark)
-
 ---
 
 ## 🛠️ Tech Stack  
