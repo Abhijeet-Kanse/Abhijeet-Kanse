@@ -59,7 +59,7 @@
 ## 🖼️ Dashboard Gallery  
 ----
 <p align="center">
-  <b>Superstore Sales Analytics - Excel & Power BI</b><br/>
+  <b>Sales & Profit Analytics Dashboard (Excel + Power BI)</b><br/>
   <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Super_Store_Dashboard.png" width="800" alt="Superstore Sales Dashboard"/>
 </p>
 
