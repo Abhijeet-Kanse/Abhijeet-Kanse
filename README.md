@@ -72,7 +72,7 @@
 ---
 <p align="center">
   <b>Global Store Dashboard - Excel</b><br/>
-  <img src="https://github.com/Abhijeet-Kanse/Business-and-Data-Analytics-Portfolio/raw/main/Dashboard_screenshots/Global_Store_Dashboard.png" width="800" alt="Global Store Dashboard"/>
+  <img src="https://github.com/Abhijeet-Kanse/Abhijeet-Kanse/blob/main/Dashboards/Global_Store_Dashboard.png" width="800" alt="Global Store Dashboard"/>
 </p>
 
 
