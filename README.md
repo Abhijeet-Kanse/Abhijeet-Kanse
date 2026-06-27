@@ -2,7 +2,7 @@
 
 <!-- ⌨️ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=850&lines=Business+Analyst;Data+Analytics;Turning+Data+into+Business+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=2c5364&center=true&vCenter=true&width=850&lines=Business+Analyst;Data+Analyst;Turning+Data+into+Business+Decisions" />
 </p>
 
 <!-- Floating Wave Icons -->
@@ -21,10 +21,11 @@
 
 ## 💼 About Me  
 
-🌟 **Business Analyst** with 2 years experienced in **CRM, ERP, and Data Analytics**.  
-📊 Skilled at bridging **business goals & data-driven insights** through **SQL, Python, Power BI & Excel**.  
-🤝 Experienced in **stakeholder communication, process improvement & business reporting**.  
-⚡ Passionate about **AI & ML applications in decision-making**.  
+🌟 **Business Analyst & Data Analyst** with 3+ years of experience across **Healthcare, E-Commerce/ERP, and CRM** domains.  
+📊 Specialized in **BRD & FRD documentation, REST API integration analysis, Power BI, SQL, and Python analytics**.  
+🤝 Skilled at translating complex business needs into **user stories, process flows, dashboards, and actionable insights**.  
+🏆 Proven track record delivering high-quality BA and DA solutions across **US-based client engagements**.  
+⚡ Passionate about **AI & GenAI tools** in business and data-driven decision-making.
 
 ---
 
